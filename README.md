@@ -4,12 +4,10 @@
 <h3 align="center"As a passionate Frontend Software Engineer with over 3 years of experience, I specialize in creating responsive, user-friendly web applications using modern technologies such as React, Next.js and Vue.js. I can work as a Business Analyst or Quality Assurance as well.
 Skills: HTML, CSS, Javascript, Typescript, ReactJS,NextJS, Vuejs, Nodejs, Express, Git
 </h3>
-
-- 🌱 I’m currently working on **TypeScript, React, NextJS**
-
-- 💬 Ask me about **TypeScript, React, Angular**
-
-- 📫 How to reach me **congsonhoang0810@gmail.com**
+  
+🌱 I’m currently working on **TypeScript, React, NextJS**
+  
+📫 How to reach me **congsonhoang0810@gmail.com**
 
 
 <!--
