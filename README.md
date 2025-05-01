@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Son Hoang</h1>
-<h3 align="center"As a passionate Frontend Software Engineer with over 3 years of experience, I specialize in creating responsive, user-friendly web applications using modern technologies such as React, Next.js and Vue.js. I can work as a Business Analyst or Quality Assurance as well.
-Skills: HTML, CSS, Javascript, Typescript, ReactJS,NextJS, Vuejs, Nodejs, Express, Git
-</h3>
+<h4 align="center">As a passionate Frontend Software Engineer with over 4 years of experience, I specialize in creating responsive, user-friendly web applications using modern technologies such as ReactJS, NextJS and VueJS. I can work as a BA or QA as well. <br>
+Skills: HTML, CSS, Javascript, Typescript, ReactJS, NextJS, VueJS, Nodejs, Express, Git
+</h4>
   
-🌱 I’m currently working on **TypeScript, React, NextJS**
+🌱 I’m currently working on **TypeScript, ReactJS, NextJS, VueJS**
   
-📫 How to reach me **congsonhoang0810@gmail.com**
+📫 Contact me via **congsonhoang0810@gmail.com**
 
 
 <!--
