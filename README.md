@@ -10,13 +10,9 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lelouchlamperouge18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lelouchlamperouge18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<h4 align="center">As a passionate Frontend Software Engineer with over 4 years of experience, I specialize in creating responsive, user-friendly web applications using modern technologies such as ReactJS, NextJS and VueJS. I can work as a BA or QA as well. <br>
-Skills: HTML, CSS, Javascript, Typescript, ReactJS, NextJS, VueJS, Nodejs, Express, Git
+<h4 align="center">I'm an AI-Driven Software Engineer with 5+ years of experience building modern web applications using React, Next.js, Vue.js, TypeScript, and Node.js. <br>
+Experienced in combining software engineering with AI-powered development workflows to deliver features faster and improve code quality. Worked with international clients across USA, UAE, Australia, Japan, Mauritius, Europe and Vietnam, collaborating throughout the product lifecycle from requirement analysis and technical discussions to implementation, testing, deployment, and production support. Passionate about building scalable products while continuously adopting AI technologies that improve developer productivity and
+software quality
 </h4>
   
 🌱 I’m currently working on **TypeScript, ReactJS, NextJS, VueJS**
