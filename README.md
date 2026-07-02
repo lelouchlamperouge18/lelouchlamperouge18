@@ -11,8 +11,7 @@
 </div>
 
 <h4 align="center">I'm an AI-Driven Software Engineer with 5+ years of experience building modern web applications using React, Next.js, Vue.js, TypeScript, and Node.js. <br>
-Experienced in combining software engineering with AI-powered development workflows to deliver features faster and improve code quality. Worked with international clients across USA, UAE, Australia, Japan, Mauritius, Europe and Vietnam, collaborating throughout the product lifecycle from requirement analysis and technical discussions to implementation, testing, deployment, and production support. Passionate about building scalable products while continuously adopting AI technologies that improve developer productivity and
-software quality
+Experienced in combining software engineering with AI-powered development workflows to deliver features faster and improve code quality. Worked with international clients across USA, UAE, Australia, Japan, Mauritius, Europe and Vietnam, collaborating throughout the product lifecycle from requirement analysis and technical discussions to implementation, testing, deployment, and production support. Passionate about building scalable products while continuously adopting AI technologies that improve developer productivity and software quality
 </h4>
   
 🌱 I’m currently working on **TypeScript, ReactJS, NextJS, VueJS**
